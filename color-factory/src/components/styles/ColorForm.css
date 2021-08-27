@@ -1,0 +1,12 @@
+.ColorForm-hidden {
+  display: none;
+}
+
+.ColorForm-form {
+  font-size: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  margin: auto;
+}
